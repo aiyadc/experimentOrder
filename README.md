@@ -5,9 +5,9 @@
 教师主页：
 ![教师主页](./example/t_home.png)  
 管理员主页：
-![管理员主页](./example/m_home.png)
+![管理员主页](./example/m_home.png)  
 超级管理员主页
-![教师主页](./example/spm_home.png)
+![超级管理员主页](./example/spm_home.png)
 ### 各角色相关功能的大致介绍
 #### 1、Teacher
 - 实验室申请  
