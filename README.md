@@ -27,18 +27,6 @@
 - 我的课表
 ![我的课表](./example/t_myCourse.png)
 
-### Manager
-- 审核实验室申请（未审核）
-![审核实验室申请](./example/m_check.png)
-
-- 审核实验室申请（已审核）
-![审核实验室申请](./example/m_checked.png)
-
-- 实验室管理
-![实验室管理](./example/m_manageLab.png)
-
-- 个人中心
-![个人中心](./example/personal.png)
 
 ### SupManager
 - 用户管理
@@ -57,5 +45,7 @@
 ![个人中心](./example/personal.png)
 
 
+### Manager
+管理员可分担超级管理员的部分业务，也拥有审核实验室预约和小部分实验室管理的权限。由于部分权限尚未设置，在此先不做展示；
 
 
